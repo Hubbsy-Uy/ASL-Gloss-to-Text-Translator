@@ -48,20 +48,8 @@ You should see a black terminal window open. The model may take **40–60 second
 
 ---
 
-## 4. How to Use the App
 
-### Step 1: Unzip the App Folder  
-Unzip `T5_Translator.zip` to any location (desktop, USB, etc).
-
-### Step 2: Run the Translator  
-- Open the folder  
-- Double-click `run.bat`  
-
-You should see a black terminal window open. The model may take **40–60 seconds** to load.  
-
----
-
-## 5. What to Expect After Running
+## 3. What to Expect After Running
 
 During loading, you may see warnings like:
 
@@ -79,7 +67,7 @@ Once loaded:
 
 ---
 
-## 6. How to Translate Gloss to Text
+## 4. How to Translate Gloss to Text
 
 1. Open your browser and go to `http://127.0.0.1:7860`  
 2. Enter gloss input in the text box (e.g., `HELLO. HOW ARE YOU-Q`)  
@@ -93,7 +81,7 @@ Once loaded:
 
 ---
 
-## 7. Important Notes
+## 5. Important Notes
 
 - App runs **entirely offline**  
 - **40–60 second pause** is normal at startup  
@@ -102,7 +90,7 @@ Once loaded:
 
 ---
 
-## 8. Understanding ASL Gloss
+## 6. Understanding ASL Gloss
 
 ASL gloss is a way of writing down American Sign Language using simplified English words to represent each sign.  
 It follows ASL grammar (not English) and excludes articles, auxiliary verbs, and sometimes pronouns.  
@@ -114,7 +102,7 @@ It follows ASL grammar (not English) and excludes articles, auxiliary verbs, and
 
 ---
 
-## 9. Glossing Rules
+## 7. Glossing Rules
 
 1. **Use ALL CAPS**  
    - ✅ `ME GO STORE`  
@@ -136,7 +124,7 @@ It follows ASL grammar (not English) and excludes articles, auxiliary verbs, and
 
 ---
 
-## 10. ASL Gloss → Text Examples
+## 8. ASL Gloss → Text Examples
 
 | ASL Gloss                      | English Translation                     |
 |--------------------------------|-----------------------------------------|
