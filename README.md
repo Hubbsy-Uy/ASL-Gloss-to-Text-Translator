@@ -3,9 +3,9 @@
 ## User Manual
 
 **Authors:**  
-John Reyvi Gravidez  
-Stingray Songgay  
-Hubert Uybaan  
+Gravidez, J.R.  
+Songgay, S.  
+Uybaan, H.  
 
 ---
 
@@ -144,9 +144,3 @@ It follows ASL grammar (not English) and excludes articles, auxiliary verbs, and
 | MOTHER GO STORE MOTHER BUY MILK| My mother went to the store to buy milk.|
 
 ---
-
-## Authors
-
-- John Reyvi Gravidez  
-- Stingray Songgay  
-- Hubert Uybaán  
